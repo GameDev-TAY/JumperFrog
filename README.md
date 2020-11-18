@@ -2,7 +2,8 @@
 
 This project was done as part of the "Computer Game Development" course at Ariel University.
 
-You can see the assignment at the following link: https://github.com/gamedev-at-ariel/gamedev-5781/blob/master/04-unity-triggers/homework.pdf
+You can see the assignment at the following link:
+https://github.com/gamedev-at-ariel/gamedev-5781/blob/master/04-unity-triggers/homework.pdf
 
 We created a game where a frog has to cross the road without getting hit by cars. We created three lanes that simulated the road, and we created a 
 spawner for each lane that schedules the object that represents the cars at some random time. We built a code that moves the cars in a continuous 
