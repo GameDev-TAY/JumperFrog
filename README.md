@@ -3,6 +3,7 @@
 This project was done as part of the "Computer Game Development" course at Ariel University.
 
 You can see the assignment at the following link:
+
 https://github.com/gamedev-at-ariel/gamedev-5781/blob/master/04-unity-triggers/homework.pdf
 
 We created a game where a frog has to cross the road without getting hit by cars. We created three lanes that simulated the road, and we created a 
