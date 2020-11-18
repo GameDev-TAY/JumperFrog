@@ -22,7 +22,7 @@ https://gamedev-tay.itch.io/ju
 
 ![image](https://user-images.githubusercontent.com/57855070/99500757-74aecf00-2983-11eb-9c3d-5bbb5a1d6ab1.png)
 
-We took the assets from:
-https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085
-https://assetstore.unity.com/packages/3d/characters/animals/toxic-frogs-132963
+We took the assets from: <br />
+https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085 <br />
+https://assetstore.unity.com/packages/3d/characters/animals/toxic-frogs-132963 <br />
 
