@@ -21,7 +21,8 @@ You can play the game here:
 https://gamedev-tay.itch.io/ju
 
 This is what it looks like when you win: <br />
-![20201118_161806](https://user-images.githubusercontent.com/57855070/99541815-f6215400-29b9-11eb-96fa-f15f940a69c8.gif)
+![20201118_163155](https://user-images.githubusercontent.com/57855070/99543213-9b88f780-29bb-11eb-823b-e1cb7e25607e.gif)
+
 
 This is how it seems to lose: <br />
 ![20201118_162952](https://user-images.githubusercontent.com/57855070/99543040-5fee2d80-29bb-11eb-8de6-fee589572c6a.gif)
