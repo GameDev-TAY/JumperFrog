@@ -20,7 +20,11 @@ You can play the game here:
 
 https://gamedev-tay.itch.io/ju
 
-![image](https://user-images.githubusercontent.com/57855070/99500757-74aecf00-2983-11eb-9c3d-5bbb5a1d6ab1.png)
+This is what it looks like when you win: <br />
+![20201118_161806](https://user-images.githubusercontent.com/57855070/99541815-f6215400-29b9-11eb-96fa-f15f940a69c8.gif)
+
+This is how it seems to lose: <br />
+![20201118_161916](https://user-images.githubusercontent.com/57855070/99541961-24069880-29ba-11eb-97d7-7ad3ac14a539.gif)
 
 We took the assets from: <br />
 https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085 <br />
