@@ -11,5 +11,9 @@ spawner for each lane that schedules the object that represents the cars at some
 movement from right to left (or vice versa) and the player according to the input from the arrow keys. We used a trigger to check if the player was run over on the way, 
 and another trigger to check if the player reached the other side successfully.
 
+You can play the game here:
+
+https://gamedev-tay.itch.io/ju
+
 ![image](https://user-images.githubusercontent.com/57855070/99500757-74aecf00-2983-11eb-9c3d-5bbb5a1d6ab1.png)
 
